@@ -1,0 +1,7 @@
+README.md
+setup.py
+3erRepo/__init__.py
+3erRepo.egg-info/PKG-INFO
+3erRepo.egg-info/SOURCES.txt
+3erRepo.egg-info/dependency_links.txt
+3erRepo.egg-info/top_level.txt
